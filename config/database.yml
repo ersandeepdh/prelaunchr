@@ -20,6 +20,14 @@
 #  adapter: postgresql
 #  database: prelaunchr
 #  host: localhost
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: aa1myvbg4atd469
+  username: ebroot
+  password: prelaunchr
+  host: aa1myvbg4atd469.cqkb2oscfiqa.ap-southeast-1.rds.amazonaws.com
+  port: 3306
 
 development:
   adapter: mysql2
