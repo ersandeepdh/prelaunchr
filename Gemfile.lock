@@ -99,6 +99,7 @@ GEM
     method_source (0.8.2)
     mime-types (1.21)
     multi_json (1.6.1)
+    mysql2 (0.3.16)
     orm_adapter (0.4.0)
     pg (0.14.1)
     polyamorous (0.5.0)
@@ -170,6 +171,7 @@ DEPENDENCIES
   activeadmin
   coffee-rails (~> 3.2.1)
   delayed_job_active_record
+  mysql2
   pg
   pry
   rails (= 3.2.11)
